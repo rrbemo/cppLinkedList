@@ -28,9 +28,5 @@ int main(int argc, const char * argv[]) {
     std::cout<<"4isEmpty: "<<ll->IsEmpty()<<std::endl;
     std::cout<<"End Count: "<<ll->Size()<<std::endl;
     std::cout<<ll->ToString()<<std::endl;
-//    std::cin>>waitString;
     return 0;
-//    // insert code here...
-//    std::cout << "Hello, World!\n";
-//    return 0;
 }
